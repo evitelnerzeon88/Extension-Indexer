@@ -217,4 +217,4 @@ Extension Indexer is provided as a **full free version** with all features and u
 Start organizing your files today with Extension Indexer! Download now and experience the benefits of a clutter-free digital workspace.
 
 ---
-**Last updated:** 2026-09-25 21:59:11 UTC
+**Last updated:** 2026-09-26 00:30:46 UTC
